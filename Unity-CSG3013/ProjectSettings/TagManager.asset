@@ -8,6 +8,7 @@ TagManager:
   - TrashBag
   - PushObstacle
   - EndTrigger
+  - FoodObject
   layers:
   - Default
   - TransparentFX
