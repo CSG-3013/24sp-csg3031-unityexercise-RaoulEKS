@@ -6,11 +6,14 @@ TagManager:
   tags:
   - CinemachineTarget
   - TrashBag
+  - PushObstacle
+  - EndTrigger
+  - FoodObject
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Pushable
   - Water
   - UI
   - 
